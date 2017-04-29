@@ -1,0 +1,8 @@
+# Here are what you need to know if your were dealing with big data in R
+
+#Data.table is faster than data frame
+https://github.com/Rdatatable/data.table/wiki/Benchmarks-%3A-Grouping
+https://www.analyticsvidhya.com/blog/2016/05/data-table-data-frame-work-large-data-sets/
+https://www.ptt.cc/bbs/R_Language/M.1437467101.A.E6D.html
+
+https://cran.r-project.org/web/packages/data.table/index.html
